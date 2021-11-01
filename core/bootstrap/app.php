@@ -10,6 +10,8 @@
 | the IoC container for the system binding all of the various parts.
 |
 */
+sudo chown -R www-data:www-data ./
+sudo usermod -a -G www-data ubuntu
 
 $app = new Illuminate\Foundation\Application(
     $_ENV['APP_BASE_PATH'] ?? dirname(__DIR__)
