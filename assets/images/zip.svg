@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="30" viewBox="0 0 26 30">
+  <g id="txt" transform="translate(-6.5)">
+    <path id="Path_12931" data-name="Path 12931" d="M24.933,0H7.385C6.9,0,6.5.351,6.5,1.032V29.464A.915.915,0,0,0,7.385,30H31.615a.915.915,0,0,0,.885-.536V6.952c0-.375-.056-.493-.155-.581L25.309.138A.571.571,0,0,0,24.933,0Z" transform="translate(0)" fill="#e9e9e0"/>
+    <path id="Path_12932" data-name="Path 12932" d="M37.5.151V6.539h6.388Z" transform="translate(-11.469 -0.07)" fill="#d9d7ca"/>
+    <path id="Path_12933" data-name="Path 12933" d="M31.615,48.164H7.385a.841.841,0,0,1-.885-.789V39h26v8.376A.841.841,0,0,1,31.615,48.164Z" transform="translate(0 -18.165)" fill="#95a5a5"/>
+    <path id="Path_12937" data-name="Path 12937" d="M15.274,12.078H12.039a.539.539,0,1,1,0-1.078h3.234a.539.539,0,1,1,0,1.078Z" transform="translate(-2.305 -5.109)" fill="#c8bdb8"/>
+    <path id="Path_12938" data-name="Path 12938" d="M16.891,17.078H12.039a.539.539,0,1,1,0-1.078h4.852a.539.539,0,1,1,0,1.078Z" transform="translate(-2.305 -7.431)" fill="#c8bdb8"/>
+    <path id="Path_12939" data-name="Path 12939" d="M25.039,17.084a.566.566,0,0,1-.383-.156.554.554,0,0,1-.156-.383.539.539,0,0,1,.162-.383.557.557,0,0,1,.76,0,.539.539,0,0,1-.383.922Z" transform="translate(-7.059 -7.436)" fill="#c8bdb8"/>
+    <path id="Path_12940" data-name="Path 12940" d="M33.352,17.078H29.039a.539.539,0,0,1,0-1.078h4.313a.539.539,0,0,1,0,1.078Z" transform="translate(-8.261 -7.431)" fill="#c8bdb8"/>
+    <path id="Path_12941" data-name="Path 12941" d="M12.036,32.085a.539.539,0,0,1-.383-.922.559.559,0,0,1,.765.005.544.544,0,0,1,.156.377.534.534,0,0,1-.539.539Z" transform="translate(-2.302 -14.403)" fill="#c8bdb8"/>
+    <path id="Path_12942" data-name="Path 12942" d="M20.352,32.078H16.039a.539.539,0,1,1,0-1.078h4.313a.539.539,0,1,1,0,1.078Z" transform="translate(-3.379 -14.397)" fill="#c8bdb8"/>
+    <path id="Path_12943" data-name="Path 12943" d="M42.117,17.078H41.039a.539.539,0,0,1,0-1.078h1.078a.539.539,0,1,1,0,1.078Z" transform="translate(-12.852 -7.431)" fill="#c8bdb8"/>
+    <path id="Path_12944" data-name="Path 12944" d="M23.9,22.078H12.039a.539.539,0,0,1,0-1.078H23.9a.539.539,0,1,1,0,1.078Z" transform="translate(-2.305 -9.753)" fill="#c8bdb8"/>
+    <path id="Path_12945" data-name="Path 12945" d="M40.274,22.078H37.039a.539.539,0,0,1,0-1.078h3.234a.539.539,0,1,1,0,1.078Z" transform="translate(-11.008 -9.753)" fill="#c8bdb8"/>
+    <path id="Path_12946" data-name="Path 12946" d="M14.2,27.078H12.039a.539.539,0,1,1,0-1.078H14.2a.539.539,0,1,1,0,1.078Z" transform="translate(-2.305 -12.075)" fill="#c8bdb8"/>
+    <path id="Path_12947" data-name="Path 12947" d="M25.43,27.078H20.039a.539.539,0,1,1,0-1.078H25.43a.539.539,0,1,1,0,1.078Z" transform="translate(-4.81 -12.075)" fill="#c8bdb8"/>
+    <path id="Path_12948" data-name="Path 12948" d="M38.891,27.078H34.039a.539.539,0,0,1,0-1.078h4.852a.539.539,0,1,1,0,1.078Z" transform="translate(-9.625 -12.075)" fill="#c8bdb8"/>
+    <text id="ZIP" transform="translate(13.629 27.835)" fill="#fff" font-size="7" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">ZIP</tspan></text>
+  </g>
+</svg>

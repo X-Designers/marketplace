@@ -1,0 +1,200 @@
+{
+    "breadcrumb": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Breadcrumb Image",
+        "content": {
+            "images":{
+                "image":{
+                    "size":"1920x1080"
+                }
+            }
+        }
+    },
+    "banner": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Banner Section",
+        "content": {
+            "images":{
+                "image":{
+                    "size":"1920x1500"
+                }
+            },
+            "heading": "text",
+            "sub_title": "text"
+        }
+    },
+    "featured_product": {
+        "builder": true,
+        "name": "Featured Section",
+        "content": {
+            "heading": "text",
+            "sub_title": "text"
+        }
+    },
+    "best_sell_product": {
+        "builder": true,
+        "name": "Best Selling Products",
+        "content": {
+            "heading": "text",
+            "sub_title": "text"
+        }
+    },
+    "latest_product": {
+        "builder": true,
+        "name": "Latest Products",
+        "content": {
+            "heading": "text",
+            "sub_title": "text"
+        }
+    },
+    "best_author_product": {
+        "builder": true,
+        "name": "Best Author Products",
+        "content": {
+            "heading": "text",
+            "sub_title": "text"
+        }
+    },
+    "featured_auhor": {
+        "builder": true,
+        "name": "Featured Auhor Section",
+        "content": {
+            "heading": "text"
+        }
+    },
+    "authentication": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Authentication Page",
+        "content": {
+            "images":{
+                "image":{
+                    "size":"1920x1080"
+                }
+            }
+        }
+    },
+    "testimonial": {
+        "builder": true,
+        "name": "Testimonial Section",
+        "content": {
+            "heading": "text",
+            "sub_title": "text"
+        },
+        "element": {
+            "images":{
+                "image":{
+                    "size":"394x452"
+                }
+            },
+            "name": "text",
+            "designation": "text",
+            "quote": "textarea",
+            "modal": false
+        }
+    },
+    "blog": {
+        "builder": true,
+        "name": "Blog Section",
+        "content": {
+            "heading": "text",
+            "sub_title": "text"
+        },
+        "element": {
+            "images":{
+                "image":{
+                    "size":"590x300"
+                }
+            },
+            "title": "text",
+            "tag": "text",
+            "description": "textarea-nic",
+            "modal": false
+        }
+    },
+    "faq": {
+        "builder": true,
+        "no_selection": true,
+        "name": "FAQ",
+        "content": {
+            "heading": "text",
+            "sub_title": "text"
+        },
+        "element": {
+            "question": "text",
+            "answer": "textarea",
+            "modal": true
+        }
+    },
+    "contact_us": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Contact Us",
+        "content": {
+            "sub_heading": "text",
+            "heading": "text",
+            "latitude": "text",
+            "longitude": "text"
+        },
+        "element": {
+            "heading": "text",
+            "details": "text",
+            "icon": "icon",
+            "modal": true
+        }
+    },
+
+    "subscribe": {
+        "builder": true,
+        "name": "Subscribe Section",
+        "content": {
+            "heading": "text"
+        }
+    },
+
+    "policy": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Company Policy",
+        "element": {
+            "heading": "text",
+            "details": "textarea-nic",
+            "modal": false
+        }
+    },
+
+    "support": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Suppot Details",
+        "content": {
+            "details": "textarea-nic"
+        }
+    },
+    "social_icon": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Social Icons",
+        "element": {
+            "title": "text",
+            "social_icon": "icon",
+            "url": "text",
+            "modal": true
+        }
+    },
+    "footer": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Footer Section",
+        "content": {
+            "images":{
+                "image":{
+                    "size":"1920x815"
+                }
+            },
+            "copyright": "text"
+        }
+    }
+}

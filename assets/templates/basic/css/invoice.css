@@ -1,0 +1,128 @@
+.print-container {
+    max-width: 900px;
+    margin: 30px auto;
+    background: white;
+    padding: 10px 30px;
+  }
+  .print-container .header {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #dbdbdb;
+    padding-bottom: 20px;
+  }
+  .print-container table {
+    margin-top: 30px;
+  }
+  .print-container table tbody tr.no-border:first-child {
+    opacity: 0.6 !important;
+  }
+  .print-container .summary-table {
+    border: 1px solid #DDE1E4;
+  }
+  .print-container .summary-table tr td:last-child {
+    text-align: right;
+  }
+  .print-container .summary-table tr th:last-child {
+    text-align: right;
+  }
+  .print-container .summary-table td {
+    border-left: 1px solid #dbdbdb;
+  }
+  .print-container .summary-table th {
+    border-left: 1px solid #dbdbdb;
+    font-size: 12px;
+  }
+  .print-container .summary-table thead {
+    color: #737F8B;
+  }
+  .print-container .ft-18 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .print-container .adder {
+    font-size: 16px;
+    font-weight: 500;
+    text-align: right;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+  }
+  .print-container .total {
+    font-size: 22px;
+  }
+  .print-container .mega {
+    font-size: 33px;
+    margin-bottom: 10px;
+  }
+  
+  .invoice-logo {
+    height: 40px;
+    width: auto;
+  }
+  
+  .other-rates {
+    float: right;
+    width: 350px;
+    text-align: right;
+  }
+  .other-rates dl {
+    width: 100%;
+    margin-bottom: 5px;
+  }
+  .other-rates dl.total {
+    border-top: 1px solid #dbdbdb;
+    padding-top: 10px;
+  }
+  .other-rates dt {
+    width: 50%;
+    float: left;
+  }
+  .other-rates dd {
+    width: 50%;
+    float: left;
+    padding-right: 10px;
+    margin: 0;
+  }
+  .purchased-badge {
+    padding: 3px 10px;
+    background-color: tomato;
+    color: #fff;
+    display: inline-block;
+  }
+  
+  .invoice-from {
+    float: right;
+  }
+  
+  .summary-info {
+    border-bottom: 1px solid #dbdbdb;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+  }
+  
+  .heading {
+    border-bottom: 1px solid #dbdbdb;
+  }
+  
+  .sub-heading .billto {
+    padding: 10px 0;
+  }
+  
+  @media print {
+    html, body {
+      width: 210mm;
+      height: 297mm;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      font-weight: bold;
+    }
+    h1:first-letter, h2:first-letter, h3:first-letter, h4:first-letter, h5:first-letter, h6:first-letter {
+      font-size: inherit;
+    }
+  }
+  .invoice-details {
+    float: right;
+  }
+  
+  .ft-12 {
+    font-size: 12px;
+  }
